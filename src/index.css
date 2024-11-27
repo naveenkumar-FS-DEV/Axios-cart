@@ -1,0 +1,11 @@
+a{
+    text-decoration: none;
+}
+
+.navbar span{
+    border: 2px solid;
+    padding: 5px 10px 5px 10px;
+    border-radius: 60px;
+    background-color: white;
+    color: black;
+}
